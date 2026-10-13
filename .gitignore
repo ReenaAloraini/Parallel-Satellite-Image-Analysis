@@ -1,0 +1,15 @@
+# Ignore original Sentinel-2 imagery
+data/sentinel2/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+.DS_Store
